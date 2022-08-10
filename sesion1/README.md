@@ -1,6 +1,14 @@
 # Sesion 1
 
 ---
+Listado de ejercicios
+
+* ejercicio1.py
+
+Descripcion: asignación de variables
+
+``` python
+
 '''
 *********** Curso de programación acelerada en Python ************
 Date 08-08-2022
