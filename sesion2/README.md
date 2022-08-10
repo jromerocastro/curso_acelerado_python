@@ -1,4 +1,4 @@
-# Sesion 1
+# Sesion 2
 
 ---
 Listado de ejercicios
