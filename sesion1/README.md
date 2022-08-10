@@ -1,5 +1,5 @@
 # Sesion 1
-
+<img src="https://www.redeszone.net/app/uploads-redeszone.net/2018/07/C%C3%B3digo-Python.jpg">
 ---
 Listado de ejercicios
 
