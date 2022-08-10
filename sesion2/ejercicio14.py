@@ -3,7 +3,7 @@
 Date 09-08-2022
 File: sesion2/ejercicio9.py
 Autor: jromeroc
-Action: preguntar contraseña
+Action: repetir una palabra
 '''
 palabra = str(input("Escriba una palabra: "))
 num = 1
